@@ -1,0 +1,5 @@
+message File{
+	bytes Bytes = 3;
+	string ContentType = 4;
+	string Name = 5;
+}

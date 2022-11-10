@@ -1,0 +1,16 @@
+{
+    "RedisConfig": {
+    "Password": "a-very-complex-password-here",
+    "AllowAdmin": false,
+    "Ssl": false,
+    "ConnectTimeout": 6000,
+    "ConnectRetry": 2,
+    "Hosts": [
+      {
+        "Host": "ip",
+        "Port": "6379"
+      }
+    ],
+    "Database": 0
+    }
+}

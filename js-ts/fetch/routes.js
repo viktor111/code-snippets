@@ -1,0 +1,7 @@
+const userRoutes = {
+    
+};
+
+export { 
+    userRoutes
+};

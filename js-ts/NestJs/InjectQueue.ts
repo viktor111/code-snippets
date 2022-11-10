@@ -1,0 +1,1 @@
+@InjectQueue('deposit') private depositQueue: Queue,
